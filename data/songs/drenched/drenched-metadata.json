@@ -1,0 +1,64 @@
+{
+  "version": "2.2.4",
+  "songName": "Drenched",
+  "artist": "480ScratchBlox",
+  "charter": "480ScratchBlox",
+  "divisions": 96,
+  "looped": false,
+  "offsets": {
+    "instrumental": 0,
+    "altInstrumentals": {    },
+    "vocals": {    },
+    "altVocals": {    }
+  },
+  "playData": {
+    "songVariations": [    ],
+    "difficulties": [
+      "easy",
+      "normal",
+      "hard"
+    ],
+    "characters": {
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "axolotl-ruler",
+      "instrumental": "",
+      "altInstrumentals": [      ]
+    },
+    "stage": "baseplate",
+    "noteStyle": "funkin",
+    "ratings": {
+      "easy": 1,
+      "normal": 4,
+      "hard": 5
+    },
+    "album": "axolotlruler",
+    "previewStart": 0,
+    "previewEnd": 0
+  },
+  "generatedBy": "Friday Night Funkin' - v0.7.5",
+  "timeFormat": "ms",
+  "timeChanges": [
+    {
+      "t": 0,
+      "b": 0,
+      "bpm": 140,
+      "n": 4,
+      "d": 4
+    },
+    {
+      "t": 109714.285714286,
+      "b": 256,
+      "bpm": 110,
+      "n": 4,
+      "d": 4
+    },
+    {
+      "t": 144623.376623377,
+      "b": 320,
+      "bpm": 140,
+      "n": 4,
+      "d": 4
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vsaxolotl-ruler-text.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="switch0001" x="50" y="50" width="210" height="126"/>
+	<SubTexture name="idle0001" x="50" y="226" width="210" height="126"/>
+</TextureAtlas>
