@@ -2,7 +2,7 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="axolotl-rulerpixel.png" width="42" height="137">
+<TextureAtlas imagePath="axolotl_rulerpixel.png" width="42" height="137">
 	<SubTexture name="idle0001" x="1" y="72" width="40" height="31" frameX="-3" frameY="-7" frameWidth="48" frameHeight="48"/>
 	<SubTexture name="confirm0001" x="1" y="106" width="40" height="30" frameX="-3" frameY="-10" frameWidth="48" frameHeight="48"/>
 	<SubTexture name="confirm0002" x="1" y="1" width="40" height="33" frameX="-3" frameY="-3" frameWidth="48" frameHeight="48"/>

@@ -8,8 +8,8 @@
   "props": [
     {
       "assetPath": "storymenu/props/axolotl-ruler",
-      "scale": 0.6,
-      "offsets": [0, -35],
+      "scale": 1,
+      "offsets": [100, 80],
       "animations": [
         {
           "name": "idle",
